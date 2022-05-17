@@ -6,16 +6,16 @@
 
 - cd - navegar entre as pastas
 - dir / ls -  Listar onde estão situadas as pastas.
-- mkdir -
-- del/rmdir / rm -rf -
+- mkdir - criar 
+- del/rmdir / rm -rf - deletar
 - echo "" > 
 - cd .. retrocede um nível.
 - cls/clear/Ctrl+L limpar tela.
 - tab auto completar.
-- openssl sha1 criptografa arquivos 40 caracteres 
-- git status
+- openssl sha1 criptografa arquivos 40 caracteres .
+- git status verificar status.
 - git end.
-- git end *
-- push
-- pull
-- 
+- git add *
+- push colocar
+- pull pegar 
+- commit

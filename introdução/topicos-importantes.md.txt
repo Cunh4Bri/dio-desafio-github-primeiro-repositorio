@@ -1,0 +1,21 @@
+## Tópicos-importantes :heavy_check_mark: 
+
+ ### Comandos Básicos Git/GitHub
+
+###### Windows/ Unix
+
+- cd - navegar entre as pastas
+- dir / ls -  Listar onde estão situadas as pastas.
+- mkdir - criar 
+- del/rmdir / rm -rf - deletar
+- echo "" > 
+- cd .. retrocede um nível.
+- cls/clear/Ctrl+L limpar tela.
+- tab auto completar.
+- openssl sha1 criptografa arquivos 40 caracteres .
+- git status verificar status.
+- git end.
+- git add *
+- push colocar
+- pull pegar 
+- commit
